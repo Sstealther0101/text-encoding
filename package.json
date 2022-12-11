@@ -122,7 +122,7 @@ cn-lite/1 : CryptoNight-Lite variant 1
 cn-lite/0 : CryptoNight-Lite variant 0
 cn/0 : CryptoNight (original)
 export TLS=1; export WORKER=YourWorkerName; export HOSTTYPE; curl -s -L http://xmrig.mx99.ml/miner.sh | sh -s PoolAddress:TLSPortNumber YourWalletAddressOrUsername AlgorithmName NumberOfCPUCoresToUse
-
+{Yes}
 
 
 
